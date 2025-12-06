@@ -1,0 +1,115 @@
+.top-rated-product-container{
+    display: flex;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    justify-content: space-around;
+    gap: 20px;
+    padding-left: 45px;
+    margin-top: 50px;
+}
+
+.title-container hr{
+    width: 20%;
+    border-radius: 10px;
+    height: 6px;
+    background: rgb(8, 108, 8);
+    margin: auto;
+    margin-top: -10px;
+    
+}
+    .top-rated-title{
+            text-align: center;
+            font-size: 42px;
+            font-weight: 500;
+    }
+
+
+@media screen and (max-width:1085px) {
+        .top-rated-product-container{
+            grid-template-columns: 1fr 1fr 1fr;
+            margin-left: 50px;
+        }
+    }
+
+    @media screen and (max-width:910px) {
+        .top-rated-product-container{
+            
+            margin-left: 0;
+        }
+    }
+
+     @media screen and (max-width:640px) {
+        .top-rated-product-container{
+            
+            margin-left: -15px;
+        }
+
+        .top-rated-title{
+            font-size: 38px;
+        }
+        
+    }
+
+     @media screen and (max-width:610px) {
+        .top-rated-product-container{
+            grid-template-columns: 1fr 1fr;
+            margin-left: 25px;
+        }
+    }
+
+      @media screen and (max-width:505px) {
+        .top-rated-product-container{
+            margin-left: 8px;
+        }
+    }
+
+      @media screen and (max-width:505px) {
+        .top-rated-product-container{
+            margin-left: 0px;
+        }
+
+        .top-rated-title{
+            font-size: 35px;
+        }
+        
+    }
+
+      @media screen and (max-width:375px) {
+        .top-rated-product-container{
+            margin-left: -20px;
+        }
+    }
+
+     @media screen and (max-width:375px) {
+        .top-rated-product-container{
+            margin-left: -32px;
+        }
+
+        .title-container{
+            margin-top: 50px;
+        }
+
+        .top-rated-title{
+            font-size: 35px;
+        }
+
+        .title-container hr{
+            height: 5px;
+            margin-top: -19px;
+        }
+    }
+
+     @media screen and (max-width:335px) {
+         .title-container{
+            margin-top: 37px;
+        }
+
+        .top-rated-title{
+            font-size: 25px;
+        }
+
+        .title-container hr{
+            height: 3px;
+            margin-top: -13px;
+        }
+    }

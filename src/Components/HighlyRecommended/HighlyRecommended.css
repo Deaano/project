@@ -1,0 +1,114 @@
+.highly-recommended-product-container{
+    display: flex;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    justify-content: space-around;
+    gap: 20px;
+    padding-left: 45px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.highly-recommended-title-container hr{
+    width: 20%;
+    border-radius: 10px;
+    height: 6px;
+    background: rgb(8, 108, 8);
+    margin: auto;
+    margin-top: -10px;
+    
+}
+    .highly-recommended-title{
+            text-align: center;
+            font-size: 42px;
+            font-weight: 500;
+    }
+
+ @media screen and (max-width:1085px) {
+        .highly-recommended-product-container{
+            grid-template-columns: 1fr 1fr 1fr;
+            margin-left: 50px;
+        }
+    }
+
+    @media screen and (max-width:910px) {
+        .highly-recommended-product-container{
+            
+            margin-left: 0;
+        }
+    }
+
+     @media screen and (max-width:640px) {
+        .highly-recommended-product-container{ 
+            margin-left: -15px;
+        }
+
+        .highly-recommended-title{
+            font-size: 38px;
+        }
+        
+    }
+
+     @media screen and (max-width:610px) {
+        .highly-recommended-product-container{
+            grid-template-columns: 1fr 1fr;
+            margin-left: 25px;
+        }
+    }
+
+      @media screen and (max-width:505px) {
+        .highly-recommended-product-container{
+            margin-left: 8px;
+        }
+    }
+
+      @media screen and (max-width:505px) {
+        .highly-recommended-product-containeriner{
+            margin-left: 0px;
+        }
+
+        .highly-recommended-title{
+            font-size: 35px;
+        }
+        
+    }
+
+      @media screen and (max-width:375px) {
+        .highly-recommended-product-container{
+            margin-left: -20px;
+        }
+    }
+
+     @media screen and (max-width:375px) {
+        .highly-recommended-product-container{
+            margin-left: -32px;
+        }
+
+        .highly-recommended-product-container{
+            margin-top: 50px;
+        }
+
+        .highly-recommended-title{
+            font-size: 35px;
+        }
+
+        .highly-recommended-title-container hr{
+            height: 5px;
+            margin-top: -19px;
+        }
+    }
+
+     @media screen and (max-width:335px) {
+         .highly-recommended-product-container{
+            margin-top: 37px;
+        }
+
+        .highly-recommended-title{
+            font-size: 25px;
+        }
+
+        .highly-recommended-title-container hr{
+            height: 3px;
+            margin-top: -13px;
+        }
+    }
