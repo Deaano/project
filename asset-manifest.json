@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/project/static/css/main.8dd7c46a.css",
-    "main.js": "/project/static/js/main.08de561c.js",
+    "main.css": "/project/static/css/main.ea2c117d.css",
+    "main.js": "/project/static/js/main.178a0cb8.js",
     "static/media/Hero.png": "/project/static/media/Hero.afbb96f2d0cf90b06a67.png",
     "static/media/HeroTwo.png": "/project/static/media/HeroTwo.d988e754661d0ba87592.png",
     "static/media/lawnmowerBanner.png": "/project/static/media/lawnmowerBanner.98e13807868d8172b637.png",
@@ -33,11 +33,11 @@
     "static/media/lawnmower.webp": "/project/static/media/lawnmower.e94e21d6accde231f609.webp",
     "static/media/gasBBQ.webp": "/project/static/media/gasBBQ.791100d0a84f3f174374.webp",
     "index.html": "/project/index.html",
-    "main.8dd7c46a.css.map": "/project/static/css/main.8dd7c46a.css.map",
-    "main.08de561c.js.map": "/project/static/js/main.08de561c.js.map"
+    "main.ea2c117d.css.map": "/project/static/css/main.ea2c117d.css.map",
+    "main.178a0cb8.js.map": "/project/static/js/main.178a0cb8.js.map"
   },
   "entrypoints": [
-    "static/css/main.8dd7c46a.css",
-    "static/js/main.08de561c.js"
+    "static/css/main.ea2c117d.css",
+    "static/js/main.178a0cb8.js"
   ]
 }
