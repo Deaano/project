@@ -1,8 +1,11 @@
 {
   "files": {
-    "main.css": "/project/static/css/main.62c994cb.css",
-    "main.js": "/project/static/js/main.ea31bceb.js",
+    "main.css": "/project/static/css/main.bd7714eb.css",
+    "main.js": "/project/static/js/main.6c9b0870.js",
     "static/media/Hero.png": "/project/static/media/Hero.afbb96f2d0cf90b06a67.png",
+    "static/media/instagram.png": "/project/static/media/instagram.bb6037fe9610f713abef.png",
+    "static/media/tiktok.png": "/project/static/media/tiktok.311f86c6121b8addd098.png",
+    "static/media/facebook.png": "/project/static/media/facebook.c53c46f268d516d41c72.png",
     "static/media/HeroTwo.png": "/project/static/media/HeroTwo.d988e754661d0ba87592.png",
     "static/media/lawnmowerBanner.png": "/project/static/media/lawnmowerBanner.98e13807868d8172b637.png",
     "static/media/TrampolineBanner.png": "/project/static/media/TrampolineBanner.405fa413b4375bb7c9b9.png",
@@ -33,11 +36,11 @@
     "static/media/lawnmower.webp": "/project/static/media/lawnmower.e94e21d6accde231f609.webp",
     "static/media/gasBBQ.webp": "/project/static/media/gasBBQ.791100d0a84f3f174374.webp",
     "index.html": "/project/index.html",
-    "main.62c994cb.css.map": "/project/static/css/main.62c994cb.css.map",
-    "main.ea31bceb.js.map": "/project/static/js/main.ea31bceb.js.map"
+    "main.bd7714eb.css.map": "/project/static/css/main.bd7714eb.css.map",
+    "main.6c9b0870.js.map": "/project/static/js/main.6c9b0870.js.map"
   },
   "entrypoints": [
-    "static/css/main.62c994cb.css",
-    "static/js/main.ea31bceb.js"
+    "static/css/main.bd7714eb.css",
+    "static/js/main.6c9b0870.js"
   ]
 }
