@@ -1,12 +1,11 @@
 {
   "files": {
-    "main.css": "/project/static/css/main.865a6819.css",
-    "main.js": "/project/static/js/main.f976190b.js",
+    "main.css": "/project/static/css/main.62c994cb.css",
+    "main.js": "/project/static/js/main.ea31bceb.js",
     "static/media/Hero.png": "/project/static/media/Hero.afbb96f2d0cf90b06a67.png",
     "static/media/HeroTwo.png": "/project/static/media/HeroTwo.d988e754661d0ba87592.png",
     "static/media/lawnmowerBanner.png": "/project/static/media/lawnmowerBanner.98e13807868d8172b637.png",
     "static/media/TrampolineBanner.png": "/project/static/media/TrampolineBanner.405fa413b4375bb7c9b9.png",
-    "static/media/BlogBanner.png": "/project/static/media/BlogBanner.d6f85b76d3227e256b2e.png",
     "static/media/campingBanner.png": "/project/static/media/campingBanner.e1346a83297580769a05.png",
     "static/media/gardenFurnitureBanner.png": "/project/static/media/gardenFurnitureBanner.68c26b5c80edc14f6fc7.png",
     "static/media/gardenShedBanner.png": "/project/static/media/gardenShedBanner.c49afbe423db5d06c958.png",
@@ -34,11 +33,11 @@
     "static/media/lawnmower.webp": "/project/static/media/lawnmower.e94e21d6accde231f609.webp",
     "static/media/gasBBQ.webp": "/project/static/media/gasBBQ.791100d0a84f3f174374.webp",
     "index.html": "/project/index.html",
-    "main.865a6819.css.map": "/project/static/css/main.865a6819.css.map",
-    "main.f976190b.js.map": "/project/static/js/main.f976190b.js.map"
+    "main.62c994cb.css.map": "/project/static/css/main.62c994cb.css.map",
+    "main.ea31bceb.js.map": "/project/static/js/main.ea31bceb.js.map"
   },
   "entrypoints": [
-    "static/css/main.865a6819.css",
-    "static/js/main.f976190b.js"
+    "static/css/main.62c994cb.css",
+    "static/js/main.ea31bceb.js"
   ]
 }
