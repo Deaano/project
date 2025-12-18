@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/project/static/css/main.ea2c117d.css",
-    "main.js": "/project/static/js/main.178a0cb8.js",
+    "main.css": "/project/static/css/main.865a6819.css",
+    "main.js": "/project/static/js/main.f976190b.js",
     "static/media/Hero.png": "/project/static/media/Hero.afbb96f2d0cf90b06a67.png",
     "static/media/HeroTwo.png": "/project/static/media/HeroTwo.d988e754661d0ba87592.png",
     "static/media/lawnmowerBanner.png": "/project/static/media/lawnmowerBanner.98e13807868d8172b637.png",
     "static/media/TrampolineBanner.png": "/project/static/media/TrampolineBanner.405fa413b4375bb7c9b9.png",
+    "static/media/BlogBanner.png": "/project/static/media/BlogBanner.d6f85b76d3227e256b2e.png",
     "static/media/campingBanner.png": "/project/static/media/campingBanner.e1346a83297580769a05.png",
     "static/media/gardenFurnitureBanner.png": "/project/static/media/gardenFurnitureBanner.68c26b5c80edc14f6fc7.png",
     "static/media/gardenShedBanner.png": "/project/static/media/gardenShedBanner.c49afbe423db5d06c958.png",
@@ -21,23 +22,23 @@
     "static/media/footballGoal.webp": "/project/static/media/footballGoal.8996884414d8df910e4e.webp",
     "static/media/gardenTools.webp": "/project/static/media/gardenTools.0872199bfa89adba594e.webp",
     "static/media/gardenLights.webp": "/project/static/media/gardenLights.3a4e46782842830c2d39.webp",
-    "static/media/swimmingpools.webp": "/project/static/media/swimmingpools.3d82242db6187e169b10.webp",
+    "static/media/swimmingpools.webp": "/project/static/media/swimmingpools.c5501971b8fa720b1182.webp",
     "static/media/trampolines.webp": "/project/static/media/trampolines.16e9d8939b4ed8682a94.webp",
     "static/media/topRatedGardenSwingSet.webp": "/project/static/media/topRatedGardenSwingSet.b891913ef261588a57bd.webp",
     "static/media/climbingFrames.webp": "/project/static/media/climbingFrames.8c6b96262a089fb98d0c.webp",
-    "static/media/camping.webp": "/project/static/media/camping.b58e17125ea6a2e94994.webp",
     "static/media/gardenSheds.webp": "/project/static/media/gardenSheds.cc906dffa4c0f0c189e1.webp",
     "static/media/charcoalBBQ.webp": "/project/static/media/charcoalBBQ.bbb5e28855aa77445a51.webp",
     "static/media/topRatedRobotLawnmower.webp": "/project/static/media/topRatedRobotLawnmower.1a92bc59019ef2b670cb.webp",
+    "static/media/camping.webp": "/project/static/media/camping.302bb6dfff7af29e6e4b.webp",
     "static/media/gazebo.webp": "/project/static/media/gazebo.1bbe4c9f759a3c3292cc.webp",
     "static/media/lawnmower.webp": "/project/static/media/lawnmower.e94e21d6accde231f609.webp",
     "static/media/gasBBQ.webp": "/project/static/media/gasBBQ.791100d0a84f3f174374.webp",
     "index.html": "/project/index.html",
-    "main.ea2c117d.css.map": "/project/static/css/main.ea2c117d.css.map",
-    "main.178a0cb8.js.map": "/project/static/js/main.178a0cb8.js.map"
+    "main.865a6819.css.map": "/project/static/css/main.865a6819.css.map",
+    "main.f976190b.js.map": "/project/static/js/main.f976190b.js.map"
   },
   "entrypoints": [
-    "static/css/main.ea2c117d.css",
-    "static/js/main.178a0cb8.js"
+    "static/css/main.865a6819.css",
+    "static/js/main.f976190b.js"
   ]
 }
