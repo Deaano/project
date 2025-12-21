@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/project/static/css/main.bd7714eb.css",
-    "main.js": "/project/static/js/main.6c9b0870.js",
+    "main.css": "/project/static/css/main.b0e7c288.css",
+    "main.js": "/project/static/js/main.028e60e7.js",
     "static/media/Hero.png": "/project/static/media/Hero.afbb96f2d0cf90b06a67.png",
+    "static/media/blogArrow.png": "/project/static/media/blogArrow.28689226c2fc32c7bba7.png",
     "static/media/instagram.png": "/project/static/media/instagram.bb6037fe9610f713abef.png",
     "static/media/tiktok.png": "/project/static/media/tiktok.311f86c6121b8addd098.png",
     "static/media/facebook.png": "/project/static/media/facebook.c53c46f268d516d41c72.png",
@@ -36,11 +37,11 @@
     "static/media/lawnmower.webp": "/project/static/media/lawnmower.e94e21d6accde231f609.webp",
     "static/media/gasBBQ.webp": "/project/static/media/gasBBQ.791100d0a84f3f174374.webp",
     "index.html": "/project/index.html",
-    "main.bd7714eb.css.map": "/project/static/css/main.bd7714eb.css.map",
-    "main.6c9b0870.js.map": "/project/static/js/main.6c9b0870.js.map"
+    "main.b0e7c288.css.map": "/project/static/css/main.b0e7c288.css.map",
+    "main.028e60e7.js.map": "/project/static/js/main.028e60e7.js.map"
   },
   "entrypoints": [
-    "static/css/main.bd7714eb.css",
-    "static/js/main.6c9b0870.js"
+    "static/css/main.b0e7c288.css",
+    "static/js/main.028e60e7.js"
   ]
 }
