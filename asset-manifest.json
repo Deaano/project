@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/project/static/css/main.b0e7c288.css",
-    "main.js": "/project/static/js/main.028e60e7.js",
+    "main.css": "/project/static/css/main.1c014adc.css",
+    "main.js": "/project/static/js/main.d47d286e.js",
     "static/media/Hero.png": "/project/static/media/Hero.afbb96f2d0cf90b06a67.png",
     "static/media/blogArrow.png": "/project/static/media/blogArrow.28689226c2fc32c7bba7.png",
     "static/media/instagram.png": "/project/static/media/instagram.bb6037fe9610f713abef.png",
@@ -29,19 +29,20 @@
     "static/media/trampolines.webp": "/project/static/media/trampolines.16e9d8939b4ed8682a94.webp",
     "static/media/topRatedGardenSwingSet.webp": "/project/static/media/topRatedGardenSwingSet.b891913ef261588a57bd.webp",
     "static/media/climbingFrames.webp": "/project/static/media/climbingFrames.8c6b96262a089fb98d0c.webp",
+    "static/media/robotLawnmower.webp": "/project/static/media/robotLawnmower.186ac8468fefa0f25503.webp",
+    "static/media/strimmer.webp": "/project/static/media/strimmer.88708cab59872edbe70f.webp",
     "static/media/gardenSheds.webp": "/project/static/media/gardenSheds.cc906dffa4c0f0c189e1.webp",
-    "static/media/charcoalBBQ.webp": "/project/static/media/charcoalBBQ.bbb5e28855aa77445a51.webp",
     "static/media/topRatedRobotLawnmower.webp": "/project/static/media/topRatedRobotLawnmower.1a92bc59019ef2b670cb.webp",
     "static/media/camping.webp": "/project/static/media/camping.302bb6dfff7af29e6e4b.webp",
     "static/media/gazebo.webp": "/project/static/media/gazebo.1bbe4c9f759a3c3292cc.webp",
     "static/media/lawnmower.webp": "/project/static/media/lawnmower.e94e21d6accde231f609.webp",
     "static/media/gasBBQ.webp": "/project/static/media/gasBBQ.791100d0a84f3f174374.webp",
     "index.html": "/project/index.html",
-    "main.b0e7c288.css.map": "/project/static/css/main.b0e7c288.css.map",
-    "main.028e60e7.js.map": "/project/static/js/main.028e60e7.js.map"
+    "main.1c014adc.css.map": "/project/static/css/main.1c014adc.css.map",
+    "main.d47d286e.js.map": "/project/static/js/main.d47d286e.js.map"
   },
   "entrypoints": [
-    "static/css/main.b0e7c288.css",
-    "static/js/main.028e60e7.js"
+    "static/css/main.1c014adc.css",
+    "static/js/main.d47d286e.js"
   ]
 }
