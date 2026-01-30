@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/project/static/css/main.ffc5f22d.css",
-    "main.js": "/project/static/js/main.65ef8780.js",
+    "main.css": "/project/static/css/main.80f2722e.css",
+    "main.js": "/project/static/js/main.7cf4f1f8.js",
     "static/media/Hero.png": "/project/static/media/Hero.afbb96f2d0cf90b06a67.png",
     "static/media/blogArrow.png": "/project/static/media/blogArrow.28689226c2fc32c7bba7.png",
     "static/media/instagram.png": "/project/static/media/instagram.bb6037fe9610f713abef.png",
@@ -9,9 +9,12 @@
     "static/media/facebook.png": "/project/static/media/facebook.c53c46f268d516d41c72.png",
     "static/media/halloweenBanner.png": "/project/static/media/halloweenBanner.792b5ae87db0372f30ef.png",
     "static/media/fatherdayBanner.png": "/project/static/media/fatherdayBanner.89bbe96747173e59af28.png",
+    "static/media/christmasBanner.png": "/project/static/media/christmasBanner.2b5f6630892981c5c0d6.png",
     "static/media/motherdayBanner.png": "/project/static/media/motherdayBanner.12a93720517f3646d98f.png",
+    "static/media/gardenEssentialsBanner.png": "/project/static/media/gardenEssentialsBanner.4f5f4c5a9678d07170d8.png",
     "static/media/holidaygearBanner.png": "/project/static/media/holidaygearBanner.4424ffda0ea1d09c3e8d.png",
     "static/media/valentinesdayBanner.png": "/project/static/media/valentinesdayBanner.330d1e040b48f77178ba.png",
+    "static/media/greenHouseBanner.png": "/project/static/media/greenHouseBanner.1237f7e1ae6c03e577c3.png",
     "static/media/HeroTwo.png": "/project/static/media/HeroTwo.7fde3dedfd07b902dcde.png",
     "static/media/birthdayBanner.png": "/project/static/media/birthdayBanner.607ca6ff2ca72a44f568.png",
     "static/media/acUnitBanner.png": "/project/static/media/acUnitBanner.cd972cb8e48662556c97.png",
@@ -57,11 +60,11 @@
     "static/media/gasBBQ.webp": "/project/static/media/gasBBQ.791100d0a84f3f174374.webp",
     "static/media/ACUnitCover.webp": "/project/static/media/ACUnitCover.c4f10fd04451a124a1e0.webp",
     "index.html": "/project/index.html",
-    "main.ffc5f22d.css.map": "/project/static/css/main.ffc5f22d.css.map",
-    "main.65ef8780.js.map": "/project/static/js/main.65ef8780.js.map"
+    "main.80f2722e.css.map": "/project/static/css/main.80f2722e.css.map",
+    "main.7cf4f1f8.js.map": "/project/static/js/main.7cf4f1f8.js.map"
   },
   "entrypoints": [
-    "static/css/main.ffc5f22d.css",
-    "static/js/main.65ef8780.js"
+    "static/css/main.80f2722e.css",
+    "static/js/main.7cf4f1f8.js"
   ]
 }
